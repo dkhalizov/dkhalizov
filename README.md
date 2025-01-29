@@ -1,16 +1,13 @@
-## Hi there 👋
+Hello,
 
-<!--
-**guliguligagaga/guliguligagaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Denis, a networking and Go enthusiast based in France. I enjoy exploring network technologies and developing in Go. Here are some of my projects:
 
-Here are some ideas to get you started:
+🚀 place-test: A public pixel art canvas deployed on my home k8 cluster.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📡 dhcp: An implementation of DHCP server from scratch.
+
+🕷️ spider-bot: A simple telegram-bot to manage home tarantulas and cricket colony on Rust.
+
+Feel free to explore my repositories and connect with me. Let's improve the network, one packet at a time. 😊
+
+Happy coding! 🎉
