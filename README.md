@@ -6,6 +6,6 @@ Outside work I build things with French public data. Building permits, the compa
 
 It all runs on three machines at home. A mini PC and two ARM boards running k3s, behind a Cloudflare tunnel. Running that has taught me a lot.
 
-Most of my repos here are private. Some hold data I'd rather not republish. I haven't cleaned up the rest.
+Most of my repos here are private. Some hold data I'd rather not republish.
 
 khalizov.com if you want my CV.
